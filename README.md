@@ -1,4 +1,4 @@
-##Data Extractor for Websites
+# Data Extractor for Websites
 
 This project uses a list of websites to extract different types of information, which is then stored in a MySQL database. Social media connections, tech stack, payment gateways, meta titles, meta descriptions, website language, and website category are all included in the data.
 
