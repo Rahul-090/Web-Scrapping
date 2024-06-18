@@ -15,7 +15,7 @@ Make sure you have fulfilled the following prerequisites before starting:
   - tqdm
   - python mysql-connector
 
-Pip can be used to install the necessary Python packages:
+- Pip can be used to install the necessary Python packages:
 
     pip install requests mysql-connector-python beautifulsoup4 tqdm
 
