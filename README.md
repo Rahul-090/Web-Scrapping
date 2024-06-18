@@ -22,7 +22,7 @@ Make sure you have fulfilled the following prerequisites before starting:
 ## 1. Setting Up the MySQL Database
 1. Start your MySQL server.
 
-2. Create a new database and a table to store the extracted website data
+2. Create a new database and a table to store the extracted website data.
 
 ## SQL code
     CREATE DATABASE website_data;
