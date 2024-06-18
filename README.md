@@ -1,4 +1,4 @@
-#Data Extractor for Websites
+##Data Extractor for Websites
 
 This project uses a list of websites to extract different types of information, which is then stored in a MySQL database. Social media connections, tech stack, payment gateways, meta titles, meta descriptions, website language, and website category are all included in the data.
 
@@ -45,16 +45,15 @@ pip install requests mysql-connector-python beautifulsoup4 tqdm
    
 2. Open the script and modify the database connection details in the insert_website_data function:
    
-      def insert_website_data(url, social_media_links, tech_stack, meta_title, meta_description, payment_gateways, website_language,     
-          website_category):
-          try:
-              connection = mysql.connector.connect(
-                  host="localhost",
-                  user="your_username",
-                  password="your_password",
-                  database="website_data"
-              )
-              # The rest of the function
+        def insert_website_data(url, social_media_links, tech_stack, meta_title, meta_description, payment_gateways, website_language, website_category):
+            try:
+                connection = mysql.connector.connect(
+                    host="localhost",
+                    user="your_username",
+                    password="your_password",
+                    database="website_data"
+                )
+                # The rest of the function
 
 Replace your_username and your_password with your MySQL credentials.
 
