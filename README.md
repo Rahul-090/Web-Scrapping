@@ -58,6 +58,7 @@ Make sure you have fulfilled the following prerequisites before starting:
 Replace your_username and your_password with your MySQL credentials.
 
 3.Run the script:
-  -python main2.py
+          
+      python main2.py
 
 
