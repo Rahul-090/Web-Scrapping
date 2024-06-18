@@ -17,7 +17,7 @@ Make sure you have fulfilled the following prerequisites before starting:
 
 - Pip can be used to install the necessary Python packages:
 
-    pip install requests mysql-connector-python beautifulsoup4 tqdm
+      pip install requests mysql-connector-python beautifulsoup4 tqdm
 
 ## 1. Setting Up the MySQL Database
 1. Start your MySQL server.
