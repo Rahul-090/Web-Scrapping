@@ -11,7 +11,7 @@ Make sure you have fulfilled the following prerequisites before starting:
 - Python is installed
 - The necessary Python packages are installed on your system:
   - requests
-  - BeautifullSoup
+  - beautifulsoup
   - tqdm
   - python mysql-connector
 
