@@ -59,6 +59,6 @@ Replace your_username and your_password with your MySQL credentials.
 
 3.Run the script:
           
-      python main2.py
+      python main.py
 
 
